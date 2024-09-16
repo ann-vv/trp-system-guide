@@ -2,14 +2,16 @@
 
 TRP - Tender Response Platform
 
-Rate Card -&#x20;
+Rate Card -
 
-Standard Rate -&#x20;
+Standard Rate -
 
-Quote -&#x20;
+Quote -
 
-Costs -&#x20;
+Costs -
 
-Field -&#x20;
+Field -
 
-Field Mapping -&#x20;
+Field Mapping -
+
+{% embed url="https://www.youtube.com/watch?v=HbDAM95RwFI" %}
