@@ -19,6 +19,8 @@
   * [Groups(and Scopes)](trp-features/settings/groups-and-scopes/README.md)
     * [Scopes](trp-features/settings/groups-and-scopes/scopes.md)
     * [Creating of group accounts](trp-features/settings/groups-and-scopes/creating-of-group-accounts.md)
+* [Support](trp-features/support.md)
+* [Notifications](trp-features/notifications.md)
 
 ## GLOSSARY
 
