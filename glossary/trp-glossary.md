@@ -1,5 +1,7 @@
 # TRP Glossary
 
+TRP - Tender Response Platform
+
 Rate Card -&#x20;
 
 Standard Rate -&#x20;
