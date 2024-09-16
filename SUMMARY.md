@@ -9,7 +9,8 @@
 
 ## TRP FEATURES
 
-* [Pipeline](trp-features/pipeline.md)
+* [Pipeline](trp-features/pipeline/README.md)
+  * [Tender Creation](trp-features/pipeline/tender-creation.md)
 * [Dash](trp-features/dash.md)
 * [Timeline](trp-features/timeline.md)
 * [Standard rates](trp-features/standard-rates.md)
