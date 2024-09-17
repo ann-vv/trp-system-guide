@@ -12,7 +12,7 @@ The **Pipeline** is a dynamic board within the TRP system that visually represen
 
 1.  **Draft**
 
-    It is the initial stage of the tender lifecycle. At this point, the tender is being [created](tender-creation-draft-status/), and the basic information is being compiled, such as tender name, deadlines, currency, and rate card configuration. Users can modify and edit all relevant details during this phase, including setting up carrier groups and defining scopes. The tender remains in the draft stage until all critical data is input and the tender is ready for publication.
+    It is the initial stage of the tender lifecycle. At this point, the tender is being [created](draft-tender-creation/), and the basic information is being compiled, such as tender name, deadlines, currency, and rate card configuration. Users can modify and edit all relevant details during this phase, including setting up carrier groups and defining scopes. The tender remains in the draft stage until all critical data is input and the tender is ready for publication.
 2.  **Port Validation**
 
     Used for tenders where interim actions are required, often related to port-specific logistics. Carriers may need to make modifications or provide additional details for specific ports. This could involve actions like changing the port of entry, paying fees for port stays, or securing necessary licenses and permits to enter the port. During this phase, tenders await completion of these requirements before moving forward in the process.
