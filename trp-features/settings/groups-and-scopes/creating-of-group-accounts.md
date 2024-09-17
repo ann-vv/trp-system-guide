@@ -15,4 +15,4 @@ Once the system creates new accounts for unregistered carriers, it initiates an 
 
 **Permissions**
 
-The created account has the “Participant” level of permissions. See Permissions for a detailed description.
+The created account has the “Participant” level of permissions. See Permissions <mark style="color:red;">(TODO insert link)</mark> for a detailed description.
