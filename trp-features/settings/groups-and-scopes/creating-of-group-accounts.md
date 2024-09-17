@@ -4,7 +4,7 @@ The TRP system allows the creation of groups that include both registered and un
 
 **Creating Groups with Unregistered Accounts**
 
-When creating a group, users can include email addresses of carriers that may not yet have accounts registered in the system. The system will automatically handle the registration of these unregistered accounts when a tender is launched.
+When creating a group, users can include email addresses of carriers that may not yet have accounts registered in the system. The system will automatically handle the registration of these unregistered accounts when a tender is [launched](../../pipeline/tender-creation-draft-status/step-6-final-check-and-launch.md).
 
 **Notification and Onboarding Process**
 
