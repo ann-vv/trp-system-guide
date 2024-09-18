@@ -36,7 +36,7 @@
 * [Settings](trp-features/settings/README.md)
   * [My Account](trp-features/settings/my-account.md)
   * [Company](trp-features/settings/company.md)
-  * [Groups(and Scopes)](trp-features/settings/groups-and-scopes/README.md)
+  * [Groups (and Scopes)](trp-features/settings/groups-and-scopes/README.md)
     * [Groups](trp-features/settings/groups-and-scopes/groups.md)
     * [Scopes](trp-features/settings/groups-and-scopes/scopes.md)
     * [Creating of group accounts](trp-features/settings/groups-and-scopes/creating-of-group-accounts.md)

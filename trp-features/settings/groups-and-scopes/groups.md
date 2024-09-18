@@ -29,9 +29,18 @@ Instead of manual entry, groups can also be imported via an Excel file, making t
 
 **Steps to Import Groups:**
 
-1. Prepare the Excel file. Ensure it contains two columns:
-   * **Column 1**: "Category title" – The group’s name.
-   * **Column 2**: "Accounts" – A comma-separated list of email addresses for the group members.
+1.  Prepare the Excel file. Ensure your Excel file contains two columns:
+
+    * **Column 1**: "Category Title" – The group’s name.
+    * **Column 2**: "Accounts" – A comma-separated list of email addresses for the group members.
+
+    Example of file configuration":
+
+| Category title |                                                   |
+| -------------- | ------------------------------------------------- |
+| Group 1        | user1@gmail.com, user2@gmail.com                  |
+| Group 2        | user3@gmail.com, user4@gmail.com, user5@gmail.com |
+
 2. Upload the file via the **Import groups** button. The system will validate the file and create the groups configured in the file.
 
 {% hint style="danger" %}
