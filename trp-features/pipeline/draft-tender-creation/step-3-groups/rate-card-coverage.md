@@ -18,8 +18,8 @@ Coverage is determined by matching the parameters defined in the Scopes configur
 
 The system calculates the coverage percentage (%) by comparing the scope settings of each carrier group against the fields specified in the rate card. The coverage percentage indicates how well a group's services align with the tender requirements.
 
-{% hint style="warning" %}
-Participation Eligibility: To participate in the tender, the carrier group must cover at least one lane of the rate card.
+{% hint style="info" %}
+**Participation Eligibility**: To participate in the tender, the carrier group must cover at least one lane of the rate card.
 {% endhint %}
 
 This functionality ensures that only relevant carriers, whose services align with the tender specifications, are considered for the quoting process, optimizing the selection of carriers for each tender.
