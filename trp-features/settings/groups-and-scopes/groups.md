@@ -2,7 +2,7 @@
 
 ### Overview
 
-Groups in the TRP system allow for the organization of carriers, shippers, and internal teams, facilitating streamlined tender management. Users can manually create groups or import/export them to ensure efficient handling of participants. Below are the detailed steps for adding, importing, exporting, and managing groups.
+Groups in the TRP system organise the carriers, shippers, and internal teams, facilitating streamlined tender management. Users can manually create groups or import/export them to ensure efficient handling of participants. Below are the detailed steps for adding, importing, exporting, and managing groups.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-09-16 at 14.04.27.png" alt=""><figcaption></figcaption></figure>
 
@@ -13,9 +13,7 @@ Each group is defined by two key parameters:
 
 You need to configure scopes to define the participation of groups in the tender. For more information please refer to [Scopes](scopes.md).
 
-### Managing Groups in the TRP System
-
-#### **Adding a Group**
+### **Add Group**
 
 1. Click "Add Group".
 2. Enter the group title and the email addresses of participants who will belong to this group.
@@ -23,7 +21,7 @@ You need to configure scopes to define the participation of groups in the tender
 
 ***
 
-#### **Importing Groups**
+### **Import Groups**
 
 Instead of manual entry, groups can also be imported via an Excel file, making the process faster when dealing with multiple participants or predefined groups.
 
@@ -34,7 +32,7 @@ Instead of manual entry, groups can also be imported via an Excel file, making t
     * **Column 1**: "Category Title" – The group’s name.
     * **Column 2**: "Accounts" – A comma-separated list of email addresses for the group members.
 
-    Example of file configuration":
+    Example of file configuration:
 
 | Category title |                                                   |
 | -------------- | ------------------------------------------------- |
@@ -49,7 +47,7 @@ Be aware that importing a new group file will **override** any existing groups p
 
 ***
 
-#### **Exporting Groups**
+### **Export Groups**
 
 Groups can be exported from the system for external review or further **editing outside the system**.
 
@@ -57,12 +55,12 @@ To export the groups press the Export button to download the list of groups. The
 
 ***
 
-#### **Saving Groups**
+### **Save Groups**
 
 After making changes to group settings or adding/removing groups, click **Save groups** to apply the changes.
 
 ***
 
-#### **Resetting Groups**
+### **Reset Groups**
 
 If changes were made but not yet saved, click **Reset** to undo the modifications and revert to the last saved configuration.

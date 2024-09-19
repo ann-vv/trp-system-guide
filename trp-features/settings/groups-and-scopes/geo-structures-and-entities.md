@@ -22,7 +22,7 @@ Entities define the volume thresholds and specify which group is responsible for
 * **Volume**: The maximum volume a group (entity) is capable of handling.
 * **Entity**: The name of the entity responsible for that volume.
 
-Geo-structures are displayed twice—once for origin and once for destination freight—allowing for detailed volume-based configurations. Different combinations of origin and destination geo-structures can be configured with varying volume thresholds.
+Geo-structures are displayed twice— for origin and for destination freights—allowing for detailed volume-based configurations. Different combinations of origin and destination geo-structures can be configured with varying volume thresholds.
 
 <mark style="color:red;">TODO</mark> screenshots with example of config
 
