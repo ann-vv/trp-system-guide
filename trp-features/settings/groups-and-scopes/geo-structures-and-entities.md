@@ -4,7 +4,9 @@ The **Geo-Structures** and **Entities** functionalities work together to define 
 
 ### **Geo-Structures**
 
-Geo-Structures allow the configuration of additional geographic fields (typically they could be **trade region**, **trade area**) for both origin and destination countries, providing more granular control.
+Geo-Structures allow the configuration of additional geographic fields (typically they could be **trade region**, **trade area, region**) for both origin and destination countries, providing more granular control.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.28.17.png" alt=""><figcaption></figcaption></figure>
 
 **Configuration Steps:**
 
@@ -16,6 +18,8 @@ Geo-Structures allow the configuration of additional geographic fields (typicall
 
 Entities define the volume thresholds and specify which group is responsible for handling shipments based on geographic and volume data.
 
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.29.57.png" alt=""><figcaption></figcaption></figure>
+
 **Entities configuration table contains 3 default columns:**
 
 * **Transport Mode**: Pre-defined system transport modes.
@@ -23,8 +27,6 @@ Entities define the volume thresholds and specify which group is responsible for
 * **Entity**: The name of the entity responsible for that volume.
 
 Geo-structures are displayed twice— for origin and for destination freights—allowing for detailed volume-based configurations. Different combinations of origin and destination geo-structures can be configured with varying volume thresholds.
-
-<mark style="color:red;">TODO</mark> screenshots with example of config
 
 ### **Scopes Integration**
 
@@ -34,7 +36,7 @@ Once entities are configured, they can be included in the **Scopes** table under
 **Advice**: Use the "copy" function to duplicate scopes with the same geographic fields but different scope entities. This makes it easier to manage configurations with varying volumes or responsibilities.
 {% endhint %}
 
-<mark style="color:red;">TODO</mark> screenshot of scopes table here
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.32.15.png" alt=""><figcaption></figcaption></figure>
 
 ### **Impact On the Rate Card**
 
