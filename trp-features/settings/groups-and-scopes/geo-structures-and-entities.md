@@ -1,5 +1,7 @@
 # Geo-Structures & Entities
 
+### Overview
+
 The **Geo-Structures** and **Entities** functionalities work together to define what volume of shipment a group is able or willing to ship. They ensure that carrier groups can only quote on rate card lanes that fall under their defined area of responsibility.
 
 ### **Geo-Structures**
