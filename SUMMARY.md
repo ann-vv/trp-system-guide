@@ -40,8 +40,8 @@
   * [Groups (and Scopes)](trp-features/settings/groups-and-scopes/README.md)
     * [Groups](trp-features/settings/groups-and-scopes/groups.md)
     * [Scopes](trp-features/settings/groups-and-scopes/scopes.md)
-    * [Creating of group accounts](trp-features/settings/groups-and-scopes/creating-of-group-accounts.md)
     * [Geo-Structures & Entities](trp-features/settings/groups-and-scopes/geo-structures-and-entities.md)
+    * [Creating of group accounts](trp-features/settings/groups-and-scopes/creating-of-group-accounts.md)
 * [Support](trp-features/support.md)
 * [Notifications](trp-features/notifications.md)
 
