@@ -46,6 +46,10 @@ Before adding scopes, ensure that **groups** have been created, as scopes will b
 * **Import Scopes**:\
   Instead of manually creating scopes, you can import a pre-configured Excel file. The file should contain the required scope data, ensuring quick setup.
 
+{% hint style="danger" %}
+Be aware that importing a new scopes file will **override** any existing scopes previously created.
+{% endhint %}
+
 ### **Geo-Structures**
 
 This feature allows for the addition of more granular geographic fields like **state, region, district, or city** for both origins and destinations. These additional fields are integrated into the scope configuration and will also be considered in the **rate card coverage calculation**, providing more precise tender control.
@@ -54,7 +58,15 @@ This feature allows for the addition of more granular geographic fields like **s
 
 Entities allow you to define **volume thresholds** that can change the responsibility for rate quotation. For example, some group might handle quotations for all origin and main freight. However, above a certain volume threshold, the responsibility could shift to a different group. Entities provide this dynamic control within the scope.
 
-### **Save & Reset**
+### **Reset**
 
-* **Save**: Confirms and saves the scope configurations you’ve made.
-* **Reset**: Reverts any unsaved changes, restoring the scope to its previous state.
+Reverts any unsaved changes, restoring the scope to its previous state, preventing any unintended modifications.
+
+### Save
+
+Confirms and saves the scope configurations you’ve made. There are two ways to save:
+
+1. **Update system scopes only**: Updates scopes in the system without impacting existing tenders.
+2. **Update also tender scopes**: Also updates scopes for active tenders, potentially affecting rate card coverage and carrier participation.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 09.53.46.png" alt=""><figcaption></figcaption></figure>
