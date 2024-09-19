@@ -6,12 +6,12 @@ The Groups tab provides a detailed view of each group's interaction with the rat
 
 **Table Columns:**
 
-1. **Group Name**. Displays the name of each group. Hovering over the group name reveals additional details, including:
+1. **Group**. Displays the name of each group. Hovering over the group name reveals additional details, including:
 
-* A **read-only view** of the rate card.
-* The ability to **export** the rate card.
-* Access to **documents** uploaded by the group.
-* Information on the **accounts** within the group.
+* **Rate card: **_**name**_: A read-only view of the rate card.
+* **Export rate card**: The ability to export the rate card.
+* **Documents**: Access to documents uploaded by the group.
+* **Accounts (**_**nr of accounts**_**)**: Information on the accounts within the group.
 * The ability to **toggle extended access** for group members.
 * The option to **quote on behalf of the group**, if required.
 
@@ -25,7 +25,7 @@ The Groups tab provides a detailed view of each group's interaction with the rat
    Shows the percentage of group members who have accessed the rate card in the current open tender phase. This provides insight into group engagement and participation.
 3. **Rate card**:\
    Indicates the percentage of quotes completed by the group based on the available rate card lanes.
-4. **Submitted (Round \<Nr>)**:\
+4. **Submitted (Round **_**Nr**_**)**:\
    Displays a checkmark icon for groups that have successfully submitted their quotes for the current round. If no quotes have been submitted, it will remain empty.
 
 **Additional Features:**

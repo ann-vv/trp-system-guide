@@ -12,4 +12,4 @@ Shippers can make important announcements or updates regarding the tender. These
 
 The message function allows for direct communication between the shipper and carriers.
 
-<mark style="color:red;">TODO describe how to add announcement, write a message</mark>
+<mark style="color:red;">TODO</mark> describe how to add announcement, write a message
