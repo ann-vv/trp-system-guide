@@ -1,6 +1,6 @@
 # Step 2: Rate card(s)
 
-In this step, you will upload and configure rate cards that are essential for the tender. The TRP system allows multiple rate cards per tender, providing flexibility in managing various lanes, services, and cost structures.
+In this step, you will upload and configure rate cards that are essential for the tender. The TRP system allows **multiple** rate cards per tender, providing flexibility in managing various lanes, services, and cost structures.
 
 ### **Initiating Rate Card Upload**
 
@@ -19,9 +19,9 @@ In the popup panel, you will need to configure the following initial parameters:
 * **Rate Card Title**:\
   Enter a descriptive title for the rate card. This title will help distinguish between different rate cards in tenders with multiple configurations.
 * **Baseline File Upload**:\
-  Upload the baseline rate card file. This file typically contains pre-set pricing data and lane configurations that will be used as a basis for the tender’s bidding process. For more details jump to [Reviewing and Mapping Rate Card Fields](step-2-rate-card-s.md#reviewing-and-mapping-rate-card-fields).
+  Upload the baseline rate card file. This file typically contains pre-set lane configurations and pricing data(costs) that will be used as a basis for the tender’s bidding process. For more details jump to [Reviewing and Mapping Rate Card Fields](step-2-rate-card-s.md#reviewing-and-mapping-rate-card-fields).
 * **Bid Rules Configuration**:\
-  Set up bid rules that determine how lanes with errors will be handled during the rate card upload process. The system offers the following options:
+  Set up bid rules that determine how lanes with errors will be handled during the rate card quoting process. The system offers the following options:
   * **Save Valid**:\
     Only valid rows in the rate card will be saved, ignoring any cells with errors.
   * **Reject Lane**:\
@@ -38,11 +38,11 @@ Once you have uploaded the baseline file, the system will present a popup that e
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 01.15.59.png" alt=""><figcaption></figcaption></figure>
 
 * **Field Mapping**:\
-  The system automatically attempts to map the fields in your uploaded rate card to the predefined fields in the system. Review these mappings carefully, and make any necessary adjustments to ensure accurate data alignment. For detailed instructions on how to use the field mapping feature, refer to the **Field Mapping Guide** \[link to page].
+  There are two types of fields mapping: Field(simple data field) and Cost(field that will be completed by the carriers on the quoting stage). The system automatically attempts to map the fields in your uploaded rate card to the predefined fields in the system. Review these mappings carefully, and make any necessary adjustments to ensure accurate data alignment.
 * **Confirm and Proceed**:\
   Once you have confirmed the mappings, click **Proceed** to proceed with the rate card configuration.
 
-**Step 7.3: Finalizing Rate Card Setup**
+### **Finalizing Rate Card Setup**
 
 After the field mapping is complete, the system will display the uploaded rate card. From this view, you can review, edit, and take further actions on the rate card.\
-If any corrections are needed, you can modify the rate card directly in the system. For more information on editing rate cards, refer to the **Rate Card Guide** <mark style="color:red;">\[link to page]</mark>.
+If any corrections are needed, you can modify the rate card directly in the system or export it for external editing. For more information on editing rate cards, refer to the **Rate Card Guide.** <mark style="color:red;">TODO to be des separately as it is complex functionality</mark>
