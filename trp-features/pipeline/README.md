@@ -29,4 +29,4 @@ The **Pipeline** is a dynamic board within the TRP system that visually represen
 
     Represents the final stage of the tender lifecycle. At this point, all agreements between the shipper and the selected carriers have been finalized. Carriers are officially awarded the tender, and the necessary legal and operational documents have been prepared, signed, and uploaded into the system. Once a tender reaches this status, all arrangements for the freight shipment are in place, and the tender is considered successfully concluded.
 
-<mark style="color:red;">TODO describe tender card details</mark>
+<mark style="color:red;">TODO do not forget to describe tender card details in some another section</mark>
