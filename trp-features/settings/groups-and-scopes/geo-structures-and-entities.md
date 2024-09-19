@@ -6,7 +6,7 @@ The **Geo-Structures** and **Entities** functionalities work together to define 
 
 ### **Geo-Structures**
 
-Geo-Structures allow the configuration of additional geographic fields (typically they could be **trade region**, **trade area, region**) for both origin and destination countries, providing more granular control.
+Geo-Structures allow the configuration of additional geographic fields (typically they could be **trade region**, **trade area, region**), providing more granular control.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.28.17.png" alt=""><figcaption></figcaption></figure>
 
