@@ -1,5 +1,5 @@
 ---
-icon: align-justify
+icon: file-lines
 ---
 
 # Introduction
