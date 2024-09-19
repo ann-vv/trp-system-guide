@@ -21,7 +21,7 @@ The system supports the manual allocation of both the created groups inside the 
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 11.07.44.png" alt=""><figcaption></figcaption></figure>
 
-4. **Confirming Group Allocation**:\
+4. **System response**:\
    Once the group has been allocated to the relevant lanes, the system will automatically update the percentage of rate card coverage by this group. This ensures the newly created group is actively participating in the tender process.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 10.44.59.png" alt=""><figcaption></figcaption></figure>
@@ -32,4 +32,4 @@ If needed, you can revert manual allocations by pressing the **"Discard Manual A
 
 ### **Impact on Tender Lifecycle**
 
-Once the tender is launched and moves to the **Open** status, the system will enable lane quoting for manually allocated groups. These groups will now be able to submit quotes for the lanes they have been assigned to, and their contributions will be reflected in the tender's evaluation process.
+Once the tender is launched and moves to the **Open** status, the system will enable lane quoting for manually allocated groups. These groups will be able to submit quotes for the lanes they have been assigned to, and their contributions will be reflected in the tender's evaluation process.

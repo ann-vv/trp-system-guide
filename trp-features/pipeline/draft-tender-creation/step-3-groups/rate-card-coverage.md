@@ -28,6 +28,8 @@ This functionality ensures that only relevant carriers, whose services align wit
 
 In the TRP system, users have the flexibility to manage the participation of carrier groups in a tender. This includes the ability to **activate** or **deactivate** groups that cover the rate card baseline. Deactivating a group means that it will not be invited to participate in the tender, and its rate card coverage will no longer apply. This functionality is useful for controlling which carriers are involved in a specific tender based on changing requirements or participation criteria.
 
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-19 at 00.45.33.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 Deactivating a group will result in a reduction of rate card coverage. The system will adjust the percentage of lanes covered by the active groups.
 {% endhint %}
@@ -39,7 +41,7 @@ Deactivating a group will result in a reduction of rate card coverage. The syste
 3. **System Response**:\
    Once the group is deactivated, the system will automatically update its rate card coverage:
    * The group’s **rate card coverage** will be reduced to 0%, meaning it no longer contributes to fulfilling the tender requirements.
-   * A **"Suspended"** label will appear next to the group, indicating that it has been deactivated and will not be invited to participate in the tender.
+   * A **Suspended** label will appear next to the group, indicating that it has been deactivated and will not be invited to participate in the tender.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-18 at 08.33.45.png" alt=""><figcaption></figcaption></figure>
 
