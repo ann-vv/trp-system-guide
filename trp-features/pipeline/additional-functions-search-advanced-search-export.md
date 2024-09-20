@@ -40,7 +40,7 @@ You can export rates for tenders that are in the **open**, **closed**, **submitt
 
 This level of customization ensures that you export exactly the data needed for your analysis.
 
-**Export Tenders List**
+#### **Export Tenders List**
 
 This function allows you to export a list of tenders from the **Pipeline** page without the need for additional filtering. All tenders—regardless of status—will be included in the export.
 
@@ -61,4 +61,4 @@ The exported file contains the following columns:
 
 ### **Recent Tenders**
 
-The **Recent tenders** option allows users to quickly access the 10 most recently opened tenders. Simply hover over the **Recent tenders** <img src="../../.gitbook/assets/Screenshot 2024-09-20 at 11.26.16 copy.png" alt="" data-size="line"> label, and a dropdown list will display the last ten tenders you've worked on or viewed, providing fast access to ongoing projects.
+The **Recent tenders** option allows users to quickly access the 10 most recently opened tenders. Simply hover over the **Recent tenders** label, and a dropdown list will display the last ten tenders you've worked on or viewed, providing fast access to ongoing projects.
