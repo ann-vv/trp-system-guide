@@ -1,6 +1,6 @@
 # Additional Functions: Search, Advanced Search, Export
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-20 at 11.26.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-20 at 12.29.32.png" alt=""><figcaption></figcaption></figure>
 
 ### Quick Search
 
