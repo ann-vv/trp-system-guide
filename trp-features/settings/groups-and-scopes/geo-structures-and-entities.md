@@ -20,8 +20,6 @@ Geo-Structures allow the configuration of additional geographic fields (typicall
 
 Entities define the volume thresholds and specify which group is responsible for handling shipments based on geographic and volume data.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.29.57.png" alt=""><figcaption></figcaption></figure>
-
 **Entities configuration table contains 3 default columns:**
 
 * **Transport Mode**: Pre-defined system transport modes.
@@ -29,6 +27,10 @@ Entities define the volume thresholds and specify which group is responsible for
 * **Entity**: The name of the entity responsible for that volume.
 
 Geo-structures are displayed twice— for origin and for destination freights—allowing for detailed volume-based configurations. Different combinations of origin and destination geo-structures can be configured with varying volume thresholds.
+
+Example of entities configuration is shown on the figure below.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-19 at 15.29.57.png" alt=""><figcaption></figcaption></figure>
 
 ### **Scopes Integration**
 
