@@ -4,13 +4,13 @@ In this step, you will upload and configure rate cards that are essential for th
 
 ### **Initiating Rate Card Upload**
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 01.01.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 01.01.37.png" alt=""><figcaption></figcaption></figure>
 
 To begin, click the **"Create First Rate Card"** button if no rate card has been added yet, or simply press the **"+ Rate Card"** button to add more rate cards to the tender. This will open a configuration panel where you can set up the initial parameters for the rate card.
 
 ### **Rate Card Configuration Panel**
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 01.05.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 01.05.09.png" alt=""><figcaption></figcaption></figure>
 
 In the popup panel, you will need to configure the following initial parameters:
 
@@ -29,13 +29,13 @@ In the popup panel, you will need to configure the following initial parameters:
 * **Additional Options**:\
   There are three additional checkboxes that further configure how the system handles the rate card upload: blanks overriding, off-scope, and baseline grouping. Hover over the **info icon** next to each checkbox to view detailed explanations of these configurations.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 01.14.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 01.14.40.png" alt=""><figcaption></figcaption></figure>
 
 ### **Reviewing and Mapping Rate Card Fields**
 
 Once you have uploaded the baseline file, the system will present a popup that enables you to review the field mappings. This step is crucial to ensure that the data in the rate card aligns with the system’s expected fields.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 01.15.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 01.15.59.png" alt=""><figcaption></figcaption></figure>
 
 * **Field Mapping**:\
   There are two types of fields mapping: Field(simple data field) and Cost(field that will be completed by the carriers on the quoting stage). The system automatically attempts to map the fields in your uploaded rate card to the predefined fields in the system. Review these mappings carefully, and make any necessary adjustments to ensure accurate data alignment.

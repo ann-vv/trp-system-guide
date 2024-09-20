@@ -9,14 +9,14 @@ These functions are available while the tender is in the [**Draft**](../) status
 ### **Steps to create a group within the tender**
 
 1. **Initiating Group Creation**:\
-   To manually create a group within the tender, click the **"Create group"** button. A popup window will appear, displaying the same group creation functionality as found in the [Groups](../../../settings/groups-and-scopes/groups.md) system settings.
+   To manually create a group within the tender, click the **"Create group"** button. A popup window will appear, displaying the same group creation functionality as found in the [Groups](../../../../settings/groups-and-scopes/groups.md) system settings.
 2. **Entering Group Details**:
    * **Title**:\
      Enter a descriptive name for the group.
    * **Emails**:\
-     Add a list of email addresses for the carriers or participants in this group. The system will [create accounts](../../../settings/groups-and-scopes/creating-of-group-accounts.md) for these email addresses if they do not already exist.
+     Add a list of email addresses for the carriers or participants in this group. The system will [create accounts](../../../../settings/groups-and-scopes/creating-of-group-accounts.md) for these email addresses if they do not already exist.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 10.35.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-09-17 at 10.35.50.png" alt=""><figcaption></figcaption></figure>
 
 3. Save the group upon the **Proceed** button.
 

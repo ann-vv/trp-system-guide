@@ -2,7 +2,7 @@
 
 The **Progress** tab provides real-time insights into the tender’s status, particularly regarding the rate card and carrier responses.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 14.32.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-09-17 at 14.32.02.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Permissions**

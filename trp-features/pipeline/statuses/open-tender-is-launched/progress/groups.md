@@ -2,7 +2,7 @@
 
 The Groups tab provides a detailed view of each group's interaction with the rate card during the tender process. It features a clear and informative table displaying key actions and metrics for each group.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-18 at 23.45.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-09-18 at 23.45.00.png" alt=""><figcaption></figcaption></figure>
 
 **Table Columns:**
 
@@ -17,7 +17,7 @@ The Groups tab provides a detailed view of each group's interaction with the rat
 
 <div align="center" data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-18 at 23.48.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Screenshot 2024-09-18 at 23.48.10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -4,15 +4,17 @@ icon: subtitles
 
 # Pipeline
 
+### Overview
+
 The **Pipeline** is a dynamic board within the TRP system that visually represents the full lifecycle of each tender, guiding users through every stage from creation to completion. It provides a clear, organized view of tender statuses, offering users an intuitive way to monitor and manage tenders as they progress. Each tender moves through predefined statuses, ensuring a structured and transparent process for all participants.
 
 <figure><img src="../../.gitbook/assets/Pipeline.png" alt=""><figcaption></figcaption></figure>
 
-**Tender Statuses in the Pipeline**
+### **Tender Statuses in the Pipeline**
 
 1.  **Draft**
 
-    It is the initial stage of the tender lifecycle. At this point, the tender is being [created](draft-tender-creation/), and the basic information is being compiled, such as tender name, deadlines, currency, and rate card configuration. Users can modify and edit all relevant details during this phase, including setting up carrier groups and defining scopes. The tender remains in the draft stage until all critical data is input and the tender is ready for publication.
+    It is the initial stage of the tender lifecycle. At this point, the tender is being [created](statuses/draft-tender-creation/), and the basic information is being compiled, such as tender name, deadlines, currency, and rate card configuration. Users can modify and edit all relevant details during this phase, including setting up carrier groups and defining scopes. The tender remains in the draft stage until all critical data is input and the tender is ready for publication.
 2.  **Port Validation**
 
     Used for tenders where interim actions are required, often related to port-specific logistics. Carriers may need to make modifications or provide additional details for specific ports. This could involve actions like changing the port of entry, paying fees for port stays, or securing necessary licenses and permits to enter the port. During this phase, tenders await completion of these requirements before moving forward in the process.
@@ -29,4 +31,12 @@ The **Pipeline** is a dynamic board within the TRP system that visually represen
 
     Represents the final stage of the tender lifecycle. At this point, all agreements between the shipper and the selected carriers have been finalized. Carriers are officially awarded the tender, and the necessary legal and operational documents have been prepared, signed, and uploaded into the system. Once a tender reaches this status, all arrangements for the freight shipment are in place, and the tender is considered successfully concluded.
 
-<mark style="color:red;">TODO do not forget to describe tender card details in some another section</mark>
+***
+
+### Find Tenders
+
+function to find tenders
+
+<figure><img src="../../.gitbook/assets/Find tenders.png" alt=""><figcaption></figcaption></figure>
+
+### Recent Tenders

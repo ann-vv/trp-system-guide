@@ -2,7 +2,7 @@
 
 The **Communication** tab facilitates interaction between the shipper and the participants during the tender process.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-09-17 at 14.34.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2024-09-17 at 14.34.42.png" alt=""><figcaption></figcaption></figure>
 
 ### **Announcements**
 

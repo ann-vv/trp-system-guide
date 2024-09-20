@@ -4,7 +4,7 @@
 
 The **Groups** tab within a draft tender plays an important role in managing and organizing the groups that will cover the rate card and participate in the tender. This tab is designed to provide the user with the comprehensive control over group creation, participation, and rate card coverage allocation.
 
-<figure><img src="../../../../.gitbook/assets/Draft tender1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Draft tender1.png" alt=""><figcaption></figcaption></figure>
 
 ### **Actions in the Groups Tab**
 
@@ -12,7 +12,7 @@ At the top of the **Groups** tab, you will find two actions:
 
 1. **Update Groups**:\
    This action refreshes the groups participating in the tender. If there have been any changes to the scopes or group settings, using this action ensures that the rate card coverage is updated accordingly. This feature is essential for keeping the tender data synchronized with recent configuration changes.\
-   Additionally, updating the groups can also be done during the process of saving [Scopes](../../../settings/groups-and-scopes/scopes.md#save) settings.
+   Additionally, updating the groups can also be done during the process of saving [Scopes](../../../../settings/groups-and-scopes/scopes.md#save) settings.
 2. **Create Group**:\
    The **Create group** action allows users to create a new group directly within the tender, providing more flexibility during the tender's preparation phase. Creating groups within the tender is a powerful tool for tailoring group involvement specific to that tender, without affecting the general group settings of the system. For step-by-step guidance on creating groups, refer to the [**Creating a group within the tender**](creating-a-group-within-the-tender.md) section.
 
